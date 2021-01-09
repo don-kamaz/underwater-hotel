@@ -1,7 +1,6 @@
 # Личный проект Подводный отель
 
 * Студент: [Михаил Беловолов](https://up.htmlacademy.ru/htmlcss/29/user/673301).
-* Наставник: [Андрей :cat: Ефимов](https://up.htmlacademy.ru/htmlcss/29/user/367335).
 
 ---
 
